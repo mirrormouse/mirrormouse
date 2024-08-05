@@ -23,6 +23,12 @@
 
 ギリシャで開催されるInterSpeech2024にて、主著論文「Efficient and Robust Long-Form Speech Recognition with Hybrid H3-Conformer」を発表予定（2024年9月）
 
+### 主な使用言語
+
+- Python：機械学習、API設計等
+- C++：競技プログラミング、プロダクト開発
+- C#：Unityでのゲーム開発
+
 
 
 <!--
