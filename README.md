@@ -28,6 +28,7 @@
 - Python：機械学習、API設計等
 - C++：競技プログラミング、プロダクト開発
 - C#：Unityでのゲーム開発
+- JavaScript：Web開発。フレームワークはDjangoやNode.js、React等。
 
 
 
