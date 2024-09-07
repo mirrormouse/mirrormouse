@@ -21,7 +21,7 @@
 
 楽天グループ株式会社2022夏の陣インターンシップ参加（2022年8月）
 
-ギリシャで開催されるInterSpeech2024にて、主著論文「Efficient and Robust Long-Form Speech Recognition with Hybrid H3-Conformer」を発表予定（2024年9月）
+InterSpeech2024(国際学会)にて、主著論文「Efficient and Robust Long-Form Speech Recognition with Hybrid H3-Conformer」を発表（2024年9月）
 
 ### 主な使用言語
 
