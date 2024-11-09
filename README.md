@@ -30,6 +30,21 @@ InterSpeech2024(国際学会)にて、主著論文「Efficient and Robust Long-F
 - C#：Unityでのゲーム開発
 - JavaScript：Web開発。フレームワークはDjangoやNode.js、React等。
 
+### 情報発信等
+
+Qiita：https://qiita.com/kagamidokei
+
+Zenn：https://zenn.dev/mirrorrabbit
+
+Youtube：https://www.youtube.com/@mira-vv8iw
+
+Kaggle：https://www.kaggle.com/mirrorrabbit
+
+Atcoder：https://atcoder.jp/users/mirrorrabbit
+
+### 自著論文リンク
+
+https://www.isca-archive.org/interspeech_2024/honda24_interspeech.html
 
 
 <!--
