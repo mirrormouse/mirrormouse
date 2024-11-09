@@ -23,6 +23,8 @@
 
 InterSpeech2024(国際学会)にて、主著論文「Efficient and Robust Long-Form Speech Recognition with Hybrid H3-Conformer」を発表（2024年9月）
 
+株式会社リクルートにおける夏期インターンシップにサーバサイドエンジニアとして参加（2024年8月～9月）
+
 ### 主な使用言語
 
 - Python：機械学習、API設計等
